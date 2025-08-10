@@ -75,7 +75,7 @@ Thumbs.db
 *.model
 
 # Large data directories
-data/
+# data/  # Commented out to allow data folder
 datasets/
 models/
 outputs/
